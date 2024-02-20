@@ -1,0 +1,117 @@
+.navbar
+{
+    background-color: #373A3C;
+}
+
+.navbar-brand
+{
+    margin-left: 12%;
+}
+
+.navbar-nav
+{
+    margin-right: 12%;
+
+}
+
+.img-text
+{
+    background-image: url('../img/bg-hero.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+
+    color: white;
+}
+
+h1
+{
+    text-align: right;
+    padding-top: 90px;
+    padding-bottom: 50px;
+    padding-right: 10%;
+    font-family: Raleway;
+}
+
+.text-img-a
+{ text-align: right;
+margin-right:10% ;
+padding-top: 1px;
+padding-bottom: 1px;
+font-family: Raleway;}
+
+.icon-section
+{
+    text-align: center;
+    
+}
+
+h2
+{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-family: Raleway;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .icon {
+    font-size: 3rem;
+    margin: 20px;
+  }
+  
+  .icon-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .icon-text {
+    margin-top: 30px;
+    font-family: Raleway;
+  }
+
+  .desletra
+  {
+    font-size: 70%;
+  }
+
+.trabajos-comida
+{background-color:#17A2B8 ;}
+
+.trabajos-comida-titulo
+{
+    text-align: center;
+    color: white;
+    font-family: Raleway;
+}
+
+footer
+{
+    background-color: #0F0F0F;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-family: Raleway;
+
+}
+.container-button {
+  text-align: right;
+}
+
+.button-h {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
